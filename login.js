@@ -31,7 +31,7 @@ document.getElementById("loginForm").addEventListener("submit", function(event){
         
         console.log("Success:", data);
     
-        window.location.href = "http://localhost:5500/success";
+        window.location.href = "https://hostelpg.netlify.app/success";
     })
     .catch((error) => {
         document.getElementById("responseMessage").textContent = "Invalid Credentials, Check Email and Password";

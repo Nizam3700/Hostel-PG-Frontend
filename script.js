@@ -30,7 +30,7 @@ document.getElementById("userForm").addEventListener("submit", function(event) {
       
       console.log("Success:", data);
 
-      window.location.href = "http://localhost:5500/login";
+      window.location.href = "https://hostelpg.netlify.app/login";
     })
     .catch((error) => {
       document.getElementById("responseMessage").textContent = "Error registering user.";
