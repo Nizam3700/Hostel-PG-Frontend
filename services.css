@@ -1,0 +1,16 @@
+.server{
+    margin-left: 20vh;
+    display: flex;
+    justify-content: center;
+    
+}
+.features{
+    width: 100vw;
+}
+.top{
+    margin-top: 15vh;
+    margin-bottom: 5vh;
+}
+.top h1,p{
+    text-align: center;
+}

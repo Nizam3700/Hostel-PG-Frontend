@@ -1,0 +1,11 @@
+.main{
+    margin: 20vh;
+    display: flex;
+    justify-content: space-evenly;
+}
+.soon{ 
+    justify-content: center; 
+    margin:23vh;
+}
+
+
